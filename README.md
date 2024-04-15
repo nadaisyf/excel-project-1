@@ -24,4 +24,6 @@ Grafik batang vertikal ditampilkan untuk menunjukkan perbandingan jumlah siswa s
 Grafik batang horizontal ditampilkan untuk menunjukkan kota yang dengan siswa terbanyak setiap tahunnya untuk membantu mendapatkan insight tentang apakah terdapat konsistensi tinggi rendahnya jumlah siswa antar kabupaten atau kota.  
 
 
+Kunjungi [portofolio saya](https://github.com/nadaisyf/excel-project-1/blob/main/dashboard_jumlah_siswa_sd.xlsx) untuk melihat proyek secara langsung melalui excel.
+
 
