@@ -21,7 +21,7 @@ Grafik garis ditampilkan untuk menunjukkan perubahan jumlah siswa dari tahun ke 
 
 Grafik batang vertikal ditampilkan untuk menunjukkan perbandingan jumlah siswa sekolah negeri dan swasta di setiap kabupaten atau kota serta jumlah siswa per-tahun ajaran (terhubung dengan slicer Tahun Ajaran).
 
-Grafik batang horizontal ditampilkan untuk menunjukkan kota yang dengan siswa terbanyak setiap tahunnya untuk membantu mendapatkan insight tentang apakah terdapat konsistensi tinggi rendahnya jumlah siswa antar kabupaten atau kota.  
+Grafik batang horizontal ditampilkan untuk menunjukkan kota dengan siswa terbanyak setiap tahunnya untuk membantu mendapatkan insight tentang apakah terdapat konsistensi tinggi rendahnya jumlah siswa antar kabupaten atau kota.  
 
 
 Kunjungi [portofolio saya](https://github.com/nadaisyf/excel-project-1/blob/main/dashboard_jumlah_siswa_sd.xlsx) untuk melihat proyek secara langsung melalui excel.
